@@ -1,2 +1,2 @@
 # bluebox
-My tech exploration repository!
+Welcome to my tech exploration repository! This is a showcase of my journey in mastering TypeScript, Node.js, and cutting-edge backend architectures like microservices. Here, you'll find a collection of my projects and experiments, highlighting my skills, continuous learning, and dedication to modern web development practices. This repository serves as both my professional portfolio and a platform for testing and demonstrating innovative technologies.
