@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package mypackage; // Replace with your package name
+
+service MyService {
+  // Define your service methods here:
+  rpc GetUserData (GetUserDataRequest) returns (GetUserDataResponse) {}
+  rpc SaveUser (SaveUserRequest) returns (SaveUserResponse) {}
+  // ... more methods
+}
+
+message GetUserDataRequest {
+  string user_id = 1;
+}
+
+message GetUserDataResponse {
+  string name = 1;
+  int32 age = 2;
+  // ... other fields
+}
+
+message SaveUserRequest {
+  string name = 1;
+  int32 age = 2;
+  // ... other fields
+}
+
+message SaveUserResponse {
+  string message = 1;
+}
