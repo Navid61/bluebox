@@ -1,3 +1,16 @@
 [submodule "frontend/landpage"]
 	path = frontend/landpage
 	url = git@github.com:Navid61/landpage.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:Navid61/api-gateway.git
+[submodule "backend/user-account"]
+	path = backend/user-account
+	url = git@github.com:Navid61/user-account.git
+[submodule "backend/user-authorization"]
+	path = backend/user-authorization
+	url = git@github.com:Navid61/user-authorization.git
+[submodule "backend/user-devices"]
+	path = backend/user-devices
+	url = git@github.com:Navid61/user-devices.git
+
