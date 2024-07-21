@@ -14,3 +14,6 @@
 	path = backend/user-devices
 	url = git@github.com:Navid61/user-devices.git
 
+[submodule "frontend/console-map"]
+	path = frontend/console-map
+	url = git@github.com:Navid61/console-map.git
