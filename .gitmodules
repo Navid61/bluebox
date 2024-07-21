@@ -13,7 +13,9 @@
 [submodule "backend/user-devices"]
 	path = backend/user-devices
 	url = git@github.com:Navid61/user-devices.git
-
 [submodule "frontend/console-map"]
 	path = frontend/console-map
 	url = git@github.com:Navid61/console-map.git
+[submodule "backend/micro-geo"]
+	path = backend/micro-geo
+	url = git@github.com:Navid61/micro-geo.git
