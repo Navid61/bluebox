@@ -1,0 +1,1 @@
+### panel added to frontend part
